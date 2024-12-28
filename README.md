@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Projects</title>
+    <title>My Technical Projects</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -71,6 +72,15 @@
             font-weight: bold;
         }
 
+        .code-snippet {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-left: 4px solid var(--primary-color);
+            font-family: 'Courier New', Courier, monospace;
+            margin: 15px 0;
+            overflow-x: auto;
+        }
+
         footer {
             text-align: center;
             padding: 10px 0;
@@ -107,7 +117,7 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p>Hello! I am a Electronics and Communication student passionate about building impactful projects. Below are three of my favorite technical projects.</p>
+            <p>Hello! I am a computer science and electronics student passionate about building impactful projects. Below are three of my favorite technical projects.</p>
         </section>
 
         <section>
@@ -115,23 +125,50 @@
             <div class="project">
                 <h3>Project 1: Virtual Herbal Garden</h3>
                 <p>An interactive platform showcasing medicinal plants used in AYUSH systems of healthcare.</p>
+                <div class="code-snippet">
+                    <pre><code>// Sample Code from the Project
+function displayPlantInfo(plant) {
+    console.log(`Plant Name: ${plant.name}`);
+    console.log(`Medicinal Uses: ${plant.uses}`);
+}
+                    </code></pre>
+                </div>
                 <a href="https://github.com/yourusername/virtual-herbal-garden" target="_blank">View on GitHub</a>
             </div>
             <div class="project">
-                <h3>Project 2: Swasth tick</h3>
+                <h3>Project 2: SwasthTick</h3>
                 <p>A web application promoting sustainable industry practices with actionable insights.</p>
+                <div class="code-snippet">
+                    <pre><code>// Sample Data Visualization Code
+const chartData = {
+    labels: ['Energy', 'Water', 'Waste'],
+    datasets: [{
+        data: [40, 30, 30],
+        backgroundColor: ['#f7c6d9', '#d9a6b3', '#f8ebe8']
+    }]
+};
+createPieChart(chartData);
+                    </code></pre>
+                </div>
                 <a href="https://github.com/yourusername/sustainable-dashboard" target="_blank">View on GitHub</a>
             </div>
             <div class="project">
-                <h3>Project 3:TriRobo</h3>
+                <h3>Project 3: TriRobo</h3>
                 <p>A portal helping students find internships and job opportunities tailored to their profiles.</p>
+                <div class="code-snippet">
+                    <pre><code>// Example API Call from the Project
+fetch('https://api.example.com/internships')
+    .then(response => response.json())
+    .then(data => console.log(data));
+                    </code></pre>
+                </div>
                 <a href="https://github.com/yourusername/internship-finder" target="_blank">View on GitHub</a>
             </div>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2024 <a href="https://github.com/sAmon.github.io" target="_blank">Your Amon</a>. All rights reserved.</p>
+        <p>&copy; 2024 <a href="https://github.com/Amon Sadhu" target="_blank">Amon</a>. All rights reserved.</p>
     </footer>
 </body>
 </html>
