@@ -99,10 +99,10 @@
         <h1>Welcome to My Portfolio</h1>
     </header>
 
-    <h1>Your Name</h1>
+    <h1>Amon Sadhu</h1>
 
     <div class="description-box">
-        Hello! I am a computer science and electronics student with a keen interest in building impactful projects. I specialize in web development, software engineering, and data analysis. My passion lies in creating innovative solutions to real-world problems through technology. With a strong foundation in programming and a creative mindset, I am constantly exploring new technologies and frameworks to enhance my skills and broaden my horizons.
+        Hello! I am Electronics and Communication Engineering student with a keen interest in building impactful projects. I specialize in web development, software engineering, and data analysis. My passion lies in creating innovative solutions to real-world problems through technology. With a strong foundation in programming and a creative mindset, I am constantly exploring new technologies and frameworks to enhance my skills and broaden my horizons.
     </div>
 
     <h2>My Technical Projects</h2>
@@ -110,8 +110,8 @@
     <div class="sub-heading">Projects</div>
 
     <div class="project-box">Virtual Herbal Garden</div>
-    <div class="project-box">Sustainable Development Dashboard</div>
-    <div class="project-box">Internship Finder</div>
+    <div class="project-box">SwasthTick</div>
+    <div class="project-box">AutoRobo</div>
 
     <footer>
         <p>&copy; 2024 <a href="https://github.com/Amon Sadhu" target="_blank">Amon</a>. All rights reserved.</p>
