@@ -102,7 +102,7 @@
     <h1>Amon Sadhu</h1>
 
     <div class="description-box">
-        Hello! I am Electronics and Communication Engineering student with a keen interest in building impactful projects. I specialize in web development, software engineering, and data analysis. My passion lies in creating innovative solutions to real-world problems through technology. With a strong foundation in programming and a creative mindset, I am constantly exploring new technologies and frameworks to enhance my skills and broaden my horizons.
+        Hello! I am Electronics and Communication Engineering student with a keen interest in building impactful projects. I specialize in web development, software engineering, and some hardware projects. My passion lies in creating innovative solutions to real-world problems through technology. With a strong foundation in programming and a creative mindset, I am constantly exploring new technologies and frameworks to enhance my skills and broaden my horizons.
     </div>
 
     <h2>My Technical Projects</h2>
