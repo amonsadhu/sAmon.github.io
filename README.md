@@ -110,8 +110,8 @@
     <div class="sub-heading">Projects</div>
 
     <div class="project-box">Virtual Herbal Garden</div>
-    <div class="project-box">SwasthTick</div>
-    <a href = "https://github.com/ashutosh1506/sih-project"> Click here </a>
+    <div class="project-box"> <a href = "https://github.com/ashutosh1506/sih-project">SwasthTick</a></div>
+    
     <div class="project-box">AutoRobo</div>
 
     <footer>
